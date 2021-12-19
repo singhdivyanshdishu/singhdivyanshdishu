@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning c,c++
 -    And want to learn c#,JavaScript
--    And leaned java
+-    And learned java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 https://www.instagram.com/singh_divyansh_dishu?r=nametag
