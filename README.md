@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @singhdivyanshdishu
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning c,c++
--    And want to learn c#,JavaScript
--    And learned java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-https://www.instagram.com/singh_divyansh_dishu?r=nametag
+- 👋 Hi, It's  Divyansh Kumar Singh Here😶‍🌫️
 
+-⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
+
+-Show some ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄
 <!---
 singhdivyanshdishu/singhdivyanshdishu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
