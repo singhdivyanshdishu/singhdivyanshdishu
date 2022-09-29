@@ -1,4 +1,4 @@
-- 👋 Hi, It's  Divyansh Kumar Singh Here😶‍🌫️
+- 👋 Hi, It's  Divyansh Kumar Singh Here😶‍🌫️ pursuing BE in CSE from UIET CHD
 
 -⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
 
