@@ -12,8 +12,9 @@
 ### Connect with me:
 <p align="left"> 
   <img src="https://img.shields.io/badge/-singhdivyanshdishu-black?style=flat&labelColor=black&logo=github&logoColor=white" alt="divyansh"/>
-   [![linkedin badge](https://img.shields.io/badge/Divyansh_Kumar_Singh-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/divyansh-kumar-singh-645311201/)
+  
 </p>
+[<img align="left" alt="Kavya | LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />][linkedin]
 
 [<img align="left" alt="Kavya | Twitter" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
 
