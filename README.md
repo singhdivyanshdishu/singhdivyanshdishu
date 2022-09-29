@@ -54,7 +54,7 @@
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/kavya-gupta-26b45522b/](https://www.linkedin.com/in/divyansh-kumar-singh-645311201/)
+[linkedin]: https://www.linkedin.com/in/kavya-gupta-26b45522b/](https://www.linkedin.com/in/divyansh-kumar-singh-645311201/
 [mail]: mailto:rkgqwe@gmail.com
 [twitter]: https://twitter.com/Kavya2719
 [codechef]: https://www.codechef.com/users/kavya2719
