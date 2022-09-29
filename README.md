@@ -55,13 +55,13 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/divyansh-kumar-singh-645311201/
-[mail]: mailto:rkgqwe@gmail.com
-[twitter]: https://twitter.com/Kavya2719
-[codechef]: https://www.codechef.com/users/kavya2719
-[codeforces]: https://codeforces.com/profile/Kavya2719
-[leetcode]: https://leetcode.com/rkgqwe/
-[atcoder]: https://atcoder.jp/users/kavya2719
-[gfg]: https://auth.geeksforgeeks.org/user/rkgqwe
+[mail]: mailto:singhbohdivydishu@gmail.com
+[twitter]: https://twitter.com/singhdivy_dishu
+[codechef]: https://www.codechef.com/users/singhdishuryuk
+[codeforces]: https://codeforces.com/profile/singhdishuryuk
+[leetcode]: https://leetcode.com/singhbohdivydishu/
+[atcoder]: https://atcoder.jp/users/singhdishuryuk
+[gfg]: https://auth.geeksforgeeks.org/user/singhbohdivydishu
 
 
 
