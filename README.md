@@ -10,8 +10,10 @@
 ---
 
 ### Connect with me:
-
-[<img align="left" alt="Kavya | LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />][linkedin]
+<p align="left"> 
+  <img src="https://img.shields.io/badge/-singhdivyanshdishu-black?style=flat&labelColor=black&logo=github&logoColor=white" alt="divyansh"/>
+   [![linkedin badge](https://img.shields.io/badge/Divyansh_Kumar_Singh-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/divyansh-kumar-singh-645311201/)
+</p>
 
 [<img align="left" alt="Kavya | Twitter" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
 
@@ -22,7 +24,6 @@
 
 ### My Competitive Programming ID's:
 
-[<img align="centre" alt="Kavya | CodeChef" width="26px" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" />][codechef]
  [<img align="centre" alt="Kavya | CodeForces" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" />][codeforces]
  [<img align="centre" alt="Kavya | Leetcode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
  [<img align="centre" alt="Kavya | Atcoder" width="26px" src="https://img.atcoder.jp/assets/atcoder.png" />][atcoder]
