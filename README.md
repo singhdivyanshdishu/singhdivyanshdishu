@@ -79,6 +79,13 @@
 [atcoder]: https://atcoder.jp/users/singhdishuryuk
 [gfg]: https://auth.geeksforgeeks.org/user/singhbohdivydishu
 
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=singhdivyanshdishu">
+</a>
+<a href="https://github.com/Dcode-k?tab=followers"><img src="https://img.shields.io/github/followers/singhdivyanshdishu?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
