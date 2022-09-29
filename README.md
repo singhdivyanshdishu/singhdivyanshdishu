@@ -46,7 +46,7 @@
 
 <br />
 
-![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya2719&show_icons=true&theme=tokyonight)
+![Dishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhdivyanshdishu&show_icons=true&theme=tokyonight)
 
 <br />
 
