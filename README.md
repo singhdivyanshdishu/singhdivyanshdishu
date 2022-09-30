@@ -13,24 +13,24 @@
 
 [<img align="left" alt="Kavya | LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />][linkedin]
 
-[<img align="left" alt="Kavya | Twitter" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
+[<img align="left" alt="Dishu | Twitter" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
 
 
-[<img align="centre" alt="Kavya | Gmail" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][mail]
+[<img align="centre" alt="Dishu | Gmail" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][mail]
 
 ---
 
 ### My Competitive Programming ID's:
 
- [<img align="centre" alt="Kavya | CodeForces" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" />][codeforces]
- [<img align="centre" alt="Kavya | Leetcode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
- [<img align="centre" alt="Kavya | Atcoder" width="26px" src="https://img.atcoder.jp/assets/atcoder.png" />][atcoder]
- [<img align="centre" alt="Kavya | GFG" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" />][gfg]
+ [<img align="centre" alt="Dishu | CodeForces" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" />][codeforces]
+   [<img align="centre" alt="Dishu | Leetcode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
+   [<img align="centre" alt="Dishu | Atcoder" width="26px" src="https://img.atcoder.jp/assets/atcoder.png" />][atcoder]
+   [<img align="centre" alt="Dishu | GFG" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" />][gfg]
 <br/>
 
 ---
 
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=singhdivyanshdishu&theme=xcode)](https://git.io/TechSpiritSS)
+[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=singhdivyanshdishu&theme=xcode)](https://git.io/singhdivyanshdishu)
 
 
 ---
