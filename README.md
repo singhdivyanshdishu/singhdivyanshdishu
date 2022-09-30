@@ -15,7 +15,8 @@
  
  <a href="https://instagram.com/0_0_shinigami_dishu_0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/instagram.svg" alt="its_yours_kumar" height="30" width="40" /></a>
   [<img align="left" alt="Dishu | Twitter" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
-  [<img align="centre" alt="Dishu | Gmail" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][mail]
+    
+  [![Gmail Badge](https://img.shields.io/badge/singhbohdivydishu@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:singhbohdivydishu@gmail.com)
 
 ---
 
