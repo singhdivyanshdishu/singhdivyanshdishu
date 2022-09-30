@@ -17,6 +17,7 @@
   [![Connect on WhatsApp](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=darkgreen)](https://wa.me/919528852307)
 [![Connect on Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&amp;labelColor=white&amp;logo=telegram&amp;logoColor=1ca0f1)](https://t.me/its_dishu_ryuk) 
 [![Connect on Medium](https://img.shields.io/badge/-Medium-black?style=flat&amp;labelColor=white&amp;logo=medium&amp;logoColor=black)](https://medium.com/@singhbohdivydishu)
+[![Connect on Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&amp;labelColor=white&amp;logo=facebook&amp;logoColor=blue)](https://www.facebook.com/singhbohdivy001/)
     
   [![Gmail Badge](https://img.shields.io/badge/singhbohdivydishu@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:singhbohdivydishu@gmail.com)
 
