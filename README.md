@@ -14,6 +14,8 @@
 [![GitHub followers](https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black)](https://github.com/singhdivyanshdishu)
  [<img align="left" alt="Dishu | LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />][linkedin]   <a href="https://instagram.com/0_0_shinigami_dishu_0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/instagram.svg" alt="its_yours_kumar" height="30" width="40" /></a>
   [<img align="left" alt="Dishu | Twitter" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
+  [![Connect on WhatsApp](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=darkgreen)](https://wa.me/919528852307)
+[![Connect on Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&amp;labelColor=white&amp;logo=telegram&amp;logoColor=1ca0f1)](https://t.me/its_dishu_ryuk)
     
   [![Gmail Badge](https://img.shields.io/badge/singhbohdivydishu@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:singhbohdivydishu@gmail.com)
 
