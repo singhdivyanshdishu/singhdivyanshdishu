@@ -28,6 +28,7 @@
 <a href="https://www.topcoder.com/members/singhdishuryuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="singhdishuryuk" height="30" width="40" /></a>
 <a href="https://codepen.io/singhdivyanshdishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="singhdivyanshdishu" height="30" width="40" /></a>
  <a href="https://www.snapchat.com/add/singhdivyan2020?share_id=1hq2r7BN99k&locale=en-IN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="divyansh-kumar-singh" height="30" width="40" /></a>
+  <a href="https://www.reddit.com/user/singhdivyanshdishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="divyansh-kumar-singh" height="30" width="40" /></a>
 
 [![GitHub followers](https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black)](https://github.com/singhdivyanshdishu)
 [![Connect on Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&amp;labelColor=white&amp;logo=telegram&amp;logoColor=1ca0f1)](https://t.me/its_dishu_ryuk)
