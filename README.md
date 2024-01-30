@@ -1,9 +1,14 @@
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Single+Day&weight=300&size=21&pause=1000&color=F7F51D&random=false&width=435&lines=Divyansh+Kumar+Singh;singhdivyanshdishu" alt="Typing SVG" /></a>
+</div>
+
 <h1 align="center"> Hi,<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> It's  Divyansh Kumar Singh </h1>
 
 <h3 align="center"> ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :) </h3>
  <h3 align="center"> Show some ❤ by giving⭐to my Repositories, at least your star could make someone's day  </h3>
  
  ---
+ <img src="https://raw.githubusercontent.com/singhdivyanshdishu/singhdivyanshdishu/output/snake.svg" alt="Snake animation" />
  
 <h2 align="left">Connect with me:</h2>
 
