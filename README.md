@@ -1,5 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Single+Day&weight=300&size=21&pause=1000&color=F7F51D&random=false&width=435&lines=Divyansh+Kumar+Singh;singhdivyanshdishu" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Single+Day&weight=300&size=21&pause=1000&color=F7F51D&random=false&width=435&lines= 
+   Divyansh+Kumar+Singh;   singhdivyanshdishu" alt="Typing SVG" /></a>
 </div>
 
 <h1 align="center"> Hi,<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> It's  Divyansh Kumar Singh </h1>
