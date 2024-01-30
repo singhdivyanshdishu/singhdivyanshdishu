@@ -8,8 +8,9 @@
  <h3 align="center"> Show some ❤ by giving⭐to my Repositories, at least your star could make someone's day  </h3>
  
  ---
+<div align="center">
  <img src="https://raw.githubusercontent.com/singhdivyanshdishu/singhdivyanshdishu/output/snake.svg" alt="Snake animation" />
- 
+</div>
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
