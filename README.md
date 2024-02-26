@@ -47,8 +47,7 @@
 ---
 
 
-[![Divyansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=singhdivyanshdishu&theme=chartreuse-dark)](https://github.com/singhdivyanshdishu/github-readme-activity-graph)
-
+[![Divyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=singhdivyanshdishu&theme=react-dark)](https://github.com/singhdivyanshdishu/github-readme-activity-graph)
 
 
 
