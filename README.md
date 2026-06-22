@@ -1,6 +1,83 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Single+Day&weight=300&size=21&pause=1000&color=F7F51D&random=false&width=435&lines=Divyansh+Kumar+Singh;singhdivyanshdishu" alt="Typing SVG" /></a>
+<!-- Divyansh GitHub Profile -->
+<div align="justify">
+
+<!-- Profile -->
+<p align="left"><strong><samp><i>「</i></samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        <div align="center">
+           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Single+Day&weight=300&size=21&pause=1000&color=F7F51D&random=false&width=435&lines=Divyansh+Kumar+Singh;singhdivyanshdishu" alt="Typing SVG" /></a>
+          </a>
+      </b>
+      <br>
+        Meraki in the process. Meaning in the pursuit. Following curiosity beyond the beaten path.
+      </br> 
+      <br>
+      <b>
+        ~ Divyansh Dishu (@singhdivyanshdishu)
+      </b>
+      </p>
+    </samp>
+  </p>
+<p align="right"><strong><samp><i>」</i></samp></strong></p>
 </div>
+
+```
+
+           .             ​ dishu@ghostos
+          .c.           ┌──────────────────────────────────┐ 
+         .ccc.           ​ OS     : GHOST OS 
+        .lllll.          ​ Kernel : NERD-DEV 3.14 
+       ..;'olll.         ​ WM     : Niri 
+      .dolllcccl.        ​ Shell  : fish
+     .lcc'   'ccc.       ​ Uptime : 23 years
+    .ccc'     'cc:.      ​ CPU    : NeuraCore AX-1
+   .cccc'     'c:;..    └──────────────────────────────────┘ 
+  ."'             '".     D   I   V   Y   A   N   S  H   火
+
+dishu@ghostos:~$ 
+```
+```shell
+dishu@ghostos:~$ pwd
+/home/divyansh
+dishu@ghostos:~$ ls
+Downloads  Documents  Notes  Pictures  Projects
+dishu@ghostos:~$
+dishu@ghostos:~$ cd Projects
+dishu@ghostos:~/Projects$ ls
+mini-shell-cpp    learn-opengl    competitive-programming    android-projects    divyansh.cpp
+```
+```shell
+dishu@ghostos:~/Projects$ cat divyansh.cpp
+class Divyansh {
+public:
+    std::string role =
+        "Computer Science Graduate";
+
+    std::vector<std::string> interests = {
+    "Linux",
+    "C++",
+    "Competitive Programming",
+    "Chess",
+    "Anime",
+    "Building Things From Scratch"
+};
+
+    std::vector<std::string> currently_learning = {
+        "Operating Systems",
+        "Computer Networks",
+        "Modern C++"
+    };
+
+    std::string current_project =
+        "Build Your Own Shell";
+
+    std::string philosophy =
+        "Meraki in the process. Meaning in the pursuit.";
+};
+
+```
 
 <h1 align="center"> Hi,<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> It's  Divyansh Kumar Singh </h1>
 
