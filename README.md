@@ -42,14 +42,16 @@ dishu@ghostos:~$
 dishu@ghostos:~$ pwd
 /home/divyansh
 dishu@ghostos:~$ ls
-Downloads  Documents  Notes  Pictures  Projects
+Downloads     Documents     Notes
+Pictures      Projects      GitHub
 dishu@ghostos:~$
-dishu@ghostos:~$ cd Projects
-dishu@ghostos:~/Projects$ ls
-mini-shell-cpp    learn-opengl    competitive-programming    android-projects    divyansh.cpp
+dishu@ghostos:~$ cd Documents
+dishu@ghostos:~/Documents$ ls
+divyansh.cpp  resume.pdf    goals.md
+bookshelf.txt       
 ```
 ```shell
-dishu@ghostos:~/Projects$ cat divyansh.cpp
+dishu@ghostos:~/Documents$ cat divyansh.cpp
 class Divyansh {
 public:
     std::string role =
@@ -65,13 +67,13 @@ public:
 };
 
     std::vector<std::string> currently_learning = {
-        "Operating Systems",
-        "Computer Networks",
-        "Modern C++"
+           "Systems Programming",
+           "Competitive Programming",
+           "Implementing Theory Into Practice"
     };
 
     std::string current_project =
-        "Build Your Own Shell";
+        "codecrafters_shell_cpp";
 
     std::string philosophy =
         "Meraki in the process. Meaning in the pursuit.";
@@ -79,7 +81,9 @@ public:
 
 ```
 ```shell
-dishu@ghostos:~/Projects$ cd ~
+dishu@ghostos:~/Documents$ cd ~
+dishu@ghostos:~$ pwd
+/home/divyansh
 dishu@ghostos:~$ cd GitHub
 dishu@ghostos:~/GitHub$ ls
 analytics    repositories    competitive-programming
@@ -133,23 +137,18 @@ dishu@ghostos:~/GitHub/analytics$ fetch contributions
 ```shell
 dishu@ghostos:~/GitHub/analytics$ fetch stats
 dishu@ghostos:~/GitHub/analytics$ fetch streak
+dishu@ghostos:~/GitHub/analytics$ fetch languages
 ```
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhdivyanshdishu&show_icons=true&theme=nord&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhdivyanshdishu&theme=nord&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhdivyanshdishu&layout=compact&theme=nord&hide_border=true)
 
 ```shell
 dishu@ghostos:~/GitHub/analytics$ fetch metrics
-dishu@ghostos:~/GitHub/analytics$ fetch languages
 ```
 ![Metrics](./github-metrics.svg)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhdivyanshdishu&layout=compact&theme=nord&hide_border=true)
 
-
-```shell
-
-
-```
 
 
 
@@ -162,7 +161,7 @@ Meaning in the pursuit.
 logout
 Connection to ghostos closed.
 ```
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=81A1C1&width=435&lines=sudo+shutdown+now;Saving+session...;Powering+off...)
 
 <h1 align="center"> Hi,<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> It's  Divyansh Kumar Singh </h1>
 
