@@ -22,7 +22,7 @@
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 </div>
-
+                
 ```
 
            .             ​ dishu@ghostos
@@ -129,7 +129,8 @@ Features:
 dishu@ghostos:~/GitHub/repositories$ cd ..
 dishu@ghostos:~/GitHub$ cd analytics
 dishu@ghostos:~/GitHub/analytics$ ls
-contributions    stats    languages    streak    metrics
+contributions    stats      languages
+streak           metrics    snake
 dishu@ghostos:~/GitHub/analytics$ fetch contributions
 ```
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=singhdivyanshdishu&theme=nord)](https://github.com/singhdivyanshdishu)
@@ -146,8 +147,11 @@ dishu@ghostos:~/GitHub/analytics$ fetch languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhdivyanshdishu&layout=compact&theme=nord&hide_border=true)
 
 ```shell
+dishu@ghostos:~/GitHub/analytics$ fetch snake
 dishu@ghostos:~/GitHub/analytics$ fetch metrics
 ```
+
+![Snake](https://raw.githubusercontent.com/singhdivyanshdishu/singhdivyanshdishu/output/github-snake-dark.svg)
 ![Metrics](./github-metrics.svg)
 
 ```shell
