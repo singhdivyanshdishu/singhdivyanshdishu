@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: singhdivyanshdishu
           outputs: |
-            dist/github-snake.svg?color_snake=%2388C0D0&color_dots=%232E3440,%233B4252,%23434C5E,%234C566A,%2381A1C1
-            dist/github-snake-dark.svg?color_snake=%2388C0D0&color_dots=%232E3440,%233B4252,%23434C5E,%234C566A,%2381A1C1
+            dist/github-snake.svg?palette=codeberg
+            dist/github-snake-dark.svg?palette=codeberg-dark
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
