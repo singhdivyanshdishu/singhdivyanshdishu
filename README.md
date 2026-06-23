@@ -132,18 +132,13 @@ dishu@ghostos:~/GitHub/analytics$ ls
 contributions    stats      languages
 streak           metrics    snake
 dishu@ghostos:~/GitHub/analytics$ fetch contributions
-```
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=singhdivyanshdishu&theme=nord)](https://github.com/singhdivyanshdishu)
-
-```shell
 dishu@ghostos:~/GitHub/analytics$ fetch stats
 dishu@ghostos:~/GitHub/analytics$ fetch streak
 dishu@ghostos:~/GitHub/analytics$ fetch languages
 ```
-
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=singhdivyanshdishu&theme=nord)](https://github.com/singhdivyanshdishu)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhdivyanshdishu&show_icons=true&theme=nord&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhdivyanshdishu&theme=nord&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhdivyanshdishu&layout=compact&theme=nord&hide_border=true)
 
 ```shell
