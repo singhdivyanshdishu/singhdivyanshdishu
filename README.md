@@ -23,7 +23,7 @@
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 </div>
                 
-```java
+```python
 
            .             ​ dishu@ghostos
           .c.           ┌──────────────────────────────────┐ 
@@ -38,7 +38,7 @@
 
 dishu@ghostos:~$
 ```
-```shell
+```javascript
 dishu@ghostos:~$ pwd
 /home/divyansh
 dishu@ghostos:~$ ls
@@ -50,7 +50,7 @@ dishu@ghostos:~/Documents$ ls
 divyansh.cpp  resume.pdf    goals.md
 bookshelf.txt       
 ```
-```shell
+```javascript
 dishu@ghostos:~/Documents$ cat divyansh.cpp
 class Divyansh {
 public:
@@ -80,7 +80,7 @@ public:
 };
 
 ```
-```shell
+```javascript
 dishu@ghostos:~/Documents$ cd ~
 dishu@ghostos:~$ pwd
 /home/divyansh
@@ -95,7 +95,7 @@ dishu@ghostos:~/GitHub/competitive-programming$ fetch codeforces && leetcode
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=singhdishuryuk&theme=nord)](https://codeforces.com/profile/singhdishuryuk)
 ![LeetCode](https://leetcard.jacoblin.cool/singhbohdivydishu?theme=nord)
 
-```shell
+```javascript
 dishu@ghostos:~/GitHub/competitive-programming$ cd ..
 dishu@ghostos:~/GitHub$ cd repositories
 dishu@ghostos:~/GitHub/repositories$ ls
@@ -125,7 +125,7 @@ Features:
 - TensorFlow / Keras implementation
 - Diabetic Retinopathy severity prediction
 ```
-```shell
+```python
 dishu@ghostos:~/GitHub/repositories$ cd ..
 dishu@ghostos:~/GitHub$ cd analytics
 dishu@ghostos:~/GitHub/analytics$ ls
@@ -141,7 +141,7 @@ dishu@ghostos:~/GitHub/analytics$ fetch languages
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhdivyanshdishu&theme=nord&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhdivyanshdishu&layout=compact&theme=nord&hide_border=true)
 
-```shell
+```python
 dishu@ghostos:~/GitHub/analytics$ fetch snake
 dishu@ghostos:~/GitHub/analytics$ fetch metrics
 ```
@@ -149,7 +149,7 @@ dishu@ghostos:~/GitHub/analytics$ fetch metrics
 ![Snake](https://raw.githubusercontent.com/singhdivyanshdishu/singhdivyanshdishu/output/github-snake-dark.svg)
 ![Metrics](./github-metrics.svg)
 
-```shell
+```python
 dishu@ghostos:~/GitHub/analytics$ cd ~
 dishu@ghostos:~$ pwd
 /home/divyansh
