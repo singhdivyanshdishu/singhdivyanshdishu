@@ -54,6 +54,6 @@ jobs:
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_types: followers, following
-          plugin_people_identicons: true
+          plugin_people_identicons: false
 
           repositories_forks: yes
