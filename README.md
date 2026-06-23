@@ -142,6 +142,7 @@ dishu@ghostos:~/GitHub/analytics$ fetch languages
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhdivyanshdishu&show_icons=true&theme=nord&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhdivyanshdishu&theme=nord&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhdivyanshdishu&layout=compact&theme=nord&hide_border=true)
 
 ```shell
@@ -149,50 +150,10 @@ dishu@ghostos:~/GitHub/analytics$ fetch metrics
 ```
 ![Metrics](./github-metrics.svg)
 
-
-
-
 ```shell
-dishu@ghostos:~/GitHub/analytics$ exit
-
-Meraki in the process.
-Meaning in the pursuit.
-
-logout
-Connection to ghostos closed.
+dishu@ghostos:~/GitHub/analytics$ cd ~
+dishu@ghostos:~$ pwd
+/home/divyansh
+dishu@ghostos:~$ sudo shutdown now
 ```
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=81A1C1&width=435&lines=sudo+shutdown+now;Saving+session...;Powering+off...)
-
-<h1 align="center"> Hi,<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> It's  Divyansh Kumar Singh </h1>
-
-<h3 align="center"> ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :) </h3>
- <h3 align="center"> Show some ❤ by giving⭐to my Repositories, at least your star could make someone's day  </h3>
- 
- ---
-
-![✍️ Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![Divyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=singhdivyanshdishu&theme=react-dark)](https://github.com/singhdivyanshdishu/github-readme-activity-graph)
-
-
-
-![Dishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhdivyanshdishu&show_icons=true&theme=chartreuse-dark)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhdivyanshdishu&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="singhdivyanshdishu" /></p> 
-
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=singhdivyanshdishu&theme=chartreuse-dark" alt="singhdivyanshdishu" /></p>
-
-
-<p align="left"> <a href="https://twitter.com/singhdivy_dishu" target="blank"><img src="https://img.shields.io/twitter/follow/singhdivy_dishu?logo=twitter&style=for-the-badge" alt="singhdivy_dishu" /></a> </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/singhdivyanshdishu/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=singhdivyanshdishu">
-</a>
-<a href="https://github.com/singhdivyanshdishu?tab=followers"><img src="https://img.shields.io/github/followers/singhdivyanshdishu?label=Followers&style=social" alt="GitHub Badge"></a>
-
-![](https://leetcard.jacoblin.cool/singhbohdivydishu?theme=unicorn)
-
-
-![Metrics](/github-metrics.svg)
-
