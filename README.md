@@ -155,4 +155,4 @@ dishu@ghostos:~$ pwd
 /home/divyansh
 dishu@ghostos:~$ sudo shutdown now
 ```
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=81A1C1&width=435&lines=sudo+shutdown+now;Saving+session...;Powering+off...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=81A1C1&width=435&lines=[sudo]+password+for+dishu:;Saving+session...;Powering+off...)
