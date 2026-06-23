@@ -7,7 +7,7 @@
     <samp>
       <b>
         <div align="center">
-           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Single+Day&weight=300&size=21&pause=1000&color=F7F51D&random=false&width=435&lines=Divyansh+Kumar+Singh;singhdivyanshdishu" alt="Typing SVG" /></a>
+           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Single+Day&weight=300&size=21&pause=1000&color=F7F51D&random=false&width=435&lines=   Divyansh+Kumar+Singh;singhdivyanshdishu" alt="Typing SVG" /></a>
           </a>
       </b>
       <br>
@@ -155,4 +155,4 @@ dishu@ghostos:~$ pwd
 /home/divyansh
 dishu@ghostos:~$ sudo shutdown now
 ```
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=81A1C1&width=435&lines=[sudo]+password+for+dishu:;Saving+session...;Powering+off...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=81A1C1&center=true&vCenter=true&width=700&lines=%5Bsudo%5D+password+for+dishu%3A+******;Saving+session...;Powering+off...)
