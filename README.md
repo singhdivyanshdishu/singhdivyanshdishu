@@ -27,14 +27,14 @@
 
            .             ​ dishu@ghostos
           .c.           ┌──────────────────────────────────┐ 
-         .ccc.           ​ OS     : GHOST OS 
-        .lllll.          ​ Kernel : NERD-DEV 3.14 
-       ..;'olll.         ​ WM     : Niri 
-      .dolllcccl.        ​ Shell  : fish
-     .lcc'   'ccc.       ​ Uptime : 23 years
-    .ccc'     'cc:.      ​ CPU    : NeuraCore AX-1
-   .cccc'     'c:;..    └──────────────────────────────────┘ 
-  ."'             '".     D   I   V   Y   A   N   S  H   火
+         .ccc.           ​     OS     : GHOST OS 
+        .llccll.          ​    Kernel : NERD-DEV 3.14 
+       ..;'olcll.            ​ WM     : Niri 
+      .dolcllcccl.           ​ Shell  : fish
+     .lcc'    'ccc.          ​ Uptime : 23 years
+    .ccc'      'cc:.      ​    CPU    : NeuraCore AX-1
+   .cccc'      'c:;..    └──────────────────────────────────┘ 
+  ."'              '".     D   I   V   Y   A   N   S  H   火
 
 dishu@ghostos:~$
 ```
