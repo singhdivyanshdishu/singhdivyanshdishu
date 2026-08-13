@@ -135,7 +135,11 @@ dishu@ghostos:~/GitHub/analytics$ fetch contributions
 dishu@ghostos:~/GitHub/analytics$ fetch stats
 dishu@ghostos:~/GitHub/analytics$ fetch streak
 ```
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=singhdivyanshdishu&theme=nord)](https://github.com/singhdivyanshdishu)
+<!--[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=singhdivyanshdishu&theme=nord)](https://github.com/singhdivyanshdishu)-->
+<img
+  alt="GitHub Contribution Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph/?username=singhdivyanshdishu&bg_color=2E3440&title_color=88C0D0&color=D8DEE9&line=81A1C1&point=88C0D0&hide_border=true&custom_title=Contribution%20Graph"
+/>
 ![GitHub Stats](./profile/stats.svg)
 ![GitHub Streak](./profile/streak.svg)
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhdivyanshdishu&layout=compact&theme=nord&hide_border=true)-->
