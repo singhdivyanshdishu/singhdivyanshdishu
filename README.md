@@ -55,7 +55,7 @@ dishu@ghostos:~/Documents$ cat divyansh.cpp
 class Divyansh {
 public:
     std::string role =
-        "Computer Science Graduate";
+        "Teaching Assistant at IIT Guwahati";
 
     std::vector<std::string> interests = {
     "Linux",
